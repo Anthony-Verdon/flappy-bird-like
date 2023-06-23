@@ -9,6 +9,7 @@ This game is a copy of the famous game flappy bird. Your goal is to dodge the pi
 ## How to install the game
 
 For the moment, I don't know, sorry !
+
 ## How to play
 
 To jump, you need to press space bar.
