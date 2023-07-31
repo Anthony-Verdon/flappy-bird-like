@@ -9,6 +9,7 @@ This game is a copy of the famous game flappy bird. Your goal is to dodge the pi
 ## How to play
 
 Here is a link if you want to play : https://nordev.itch.io/flappy-bird-like
+
 To jump, you need to press space bar.
 
 ## What did I learn
